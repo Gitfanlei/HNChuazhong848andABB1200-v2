@@ -1,0 +1,364 @@
+20190331 12:06:32:992 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190331 12:06:33:007 [INFO] WinSocket Start Success, version=2.2
+20190331 12:06:33:008 [INFO] Init listen socket success, ListenSocket=1156, UdpRecvSocket=1160, IP=192.168.1.194, Port=10001
+20190331 12:06:33:008 [INFO] Init Completion point success
+20190331 12:06:33:009 [INFO] Init Thread pool Success, thread count=10
+20190331 12:06:33:010 [INFO] Start thread TCPWatch
+20190331 12:06:33:010 [INFO] Start thread UDPWatch
+20190331 12:06:33:010 [INFO] Start thread DetectDeadConn
+20190331 12:06:33:018 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190331 12:06:33:522 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190331 12:06:33:522 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190331 12:06:34:023 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190331 12:06:34:023 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 02:06:39:467 [INFO] *******************Call TCPInit, IP=192.168.1.104, ListenPort=10001*******************
+20190401 02:06:39:485 [INFO] WinSocket Start Success, version=2.2
+20190401 02:06:39:486 [INFO] Init listen socket success, ListenSocket=1168, UdpRecvSocket=1172, IP=192.168.1.104, Port=10001
+20190401 02:06:39:486 [INFO] Init Completion point success
+20190401 02:06:39:486 [INFO] Init Thread pool Success, thread count=10
+20190401 02:06:39:523 [INFO] Start thread TCPWatch
+20190401 02:06:39:523 [INFO] Start thread UDPWatch
+20190401 02:06:39:523 [INFO] Start thread DetectDeadConn
+20190401 02:06:39:526 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 02:06:40:167 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 02:06:40:167 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 02:06:40:669 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 02:06:40:669 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 02:07:10:514 [INFO] *******************Call TCPInit, IP=192.168.1.104, ListenPort=10001*******************
+20190401 02:07:10:532 [INFO] WinSocket Start Success, version=2.2
+20190401 02:07:10:532 [INFO] Init listen socket success, ListenSocket=1148, UdpRecvSocket=1152, IP=192.168.1.104, Port=10001
+20190401 02:07:10:532 [INFO] Init Completion point success
+20190401 02:07:10:539 [INFO] Init Thread pool Success, thread count=10
+20190401 02:07:10:553 [INFO] Start thread TCPWatch
+20190401 02:07:10:553 [INFO] Start thread UDPWatch
+20190401 02:07:10:553 [INFO] Start thread DetectDeadConn
+20190401 02:07:10:554 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 02:07:11:063 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 02:07:11:063 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 02:07:11:564 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 02:07:11:564 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:27:25:212 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:27:25:229 [INFO] WinSocket Start Success, version=2.2
+20190401 09:27:25:229 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1152, IP=192.168.1.194, Port=10001
+20190401 09:27:25:229 [INFO] Init Completion point success
+20190401 09:27:25:230 [INFO] Init Thread pool Success, thread count=10
+20190401 09:27:25:231 [INFO] Start thread TCPWatch
+20190401 09:27:25:231 [INFO] Start thread UDPWatch
+20190401 09:27:25:231 [INFO] Start thread DetectDeadConn
+20190401 09:27:25:250 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:27:25:753 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:27:25:753 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:27:26:254 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:27:26:254 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:29:18:655 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:29:18:677 [INFO] WinSocket Start Success, version=2.2
+20190401 09:29:18:677 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190401 09:29:18:677 [INFO] Init Completion point success
+20190401 09:29:18:678 [INFO] Init Thread pool Success, thread count=10
+20190401 09:29:18:679 [INFO] Start thread TCPWatch
+20190401 09:29:18:679 [INFO] Start thread UDPWatch
+20190401 09:29:18:679 [INFO] Start thread DetectDeadConn
+20190401 09:29:18:689 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:29:19:192 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:29:19:192 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:29:19:693 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:29:19:693 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:33:30:796 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:33:30:811 [INFO] WinSocket Start Success, version=2.2
+20190401 09:33:30:812 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190401 09:33:30:812 [INFO] Init Completion point success
+20190401 09:33:30:812 [INFO] Init Thread pool Success, thread count=10
+20190401 09:33:30:813 [INFO] Start thread DetectDeadConn
+20190401 09:33:30:813 [INFO] Start thread TCPWatch
+20190401 09:33:30:813 [INFO] Start thread UDPWatch
+20190401 09:33:30:822 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:33:31:326 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:33:31:326 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:33:31:827 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:33:31:827 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:33:44:595 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:33:44:612 [INFO] WinSocket Start Success, version=2.2
+20190401 09:33:44:612 [INFO] Init listen socket success, ListenSocket=1148, UdpRecvSocket=1152, IP=192.168.1.194, Port=10001
+20190401 09:33:44:612 [INFO] Init Completion point success
+20190401 09:33:44:613 [INFO] Init Thread pool Success, thread count=10
+20190401 09:33:44:613 [INFO] Start thread TCPWatch
+20190401 09:33:44:614 [INFO] Start thread UDPWatch
+20190401 09:33:44:614 [INFO] Start thread DetectDeadConn
+20190401 09:33:44:641 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:33:45:143 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:33:45:143 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:33:45:643 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:33:45:643 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:35:01:928 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:35:01:944 [INFO] WinSocket Start Success, version=2.2
+20190401 09:35:01:944 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190401 09:35:01:944 [INFO] Init Completion point success
+20190401 09:35:01:945 [INFO] Init Thread pool Success, thread count=10
+20190401 09:35:01:945 [INFO] Start thread TCPWatch
+20190401 09:35:01:945 [INFO] Start thread UDPWatch
+20190401 09:35:01:946 [INFO] Start thread DetectDeadConn
+20190401 09:35:01:971 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:35:02:476 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:35:02:476 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:35:02:976 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:35:02:976 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:37:51:048 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:37:51:066 [INFO] WinSocket Start Success, version=2.2
+20190401 09:37:51:066 [INFO] Init listen socket success, ListenSocket=1140, UdpRecvSocket=1144, IP=192.168.1.194, Port=10001
+20190401 09:37:51:066 [INFO] Init Completion point success
+20190401 09:37:51:067 [INFO] Init Thread pool Success, thread count=10
+20190401 09:37:51:068 [INFO] Start thread TCPWatch
+20190401 09:37:51:068 [INFO] Start thread UDPWatch
+20190401 09:37:51:068 [INFO] Start thread DetectDeadConn
+20190401 09:37:51:080 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:37:51:583 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:37:51:583 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:37:52:084 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:37:52:084 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:41:17:064 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:41:17:080 [INFO] WinSocket Start Success, version=2.2
+20190401 09:41:17:081 [INFO] Init listen socket success, ListenSocket=1136, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 09:41:17:081 [INFO] Init Completion point success
+20190401 09:41:17:081 [INFO] Init Thread pool Success, thread count=10
+20190401 09:41:17:082 [INFO] Start thread TCPWatch
+20190401 09:41:17:082 [INFO] Start thread UDPWatch
+20190401 09:41:17:082 [INFO] Start thread DetectDeadConn
+20190401 09:41:17:091 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:41:17:593 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:41:17:593 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:41:18:094 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:41:18:094 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:41:47:985 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:41:48:002 [INFO] WinSocket Start Success, version=2.2
+20190401 09:41:48:002 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1116, IP=192.168.1.194, Port=10001
+20190401 09:41:48:002 [INFO] Init Completion point success
+20190401 09:41:48:005 [INFO] Init Thread pool Success, thread count=10
+20190401 09:41:48:005 [INFO] Start thread TCPWatch
+20190401 09:41:48:005 [INFO] Start thread UDPWatch
+20190401 09:41:48:005 [INFO] Start thread DetectDeadConn
+20190401 09:41:48:034 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:41:48:537 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:41:48:537 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:41:49:038 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:41:49:038 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:43:23:832 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:43:23:848 [INFO] WinSocket Start Success, version=2.2
+20190401 09:43:23:848 [INFO] Init listen socket success, ListenSocket=1148, UdpRecvSocket=1152, IP=192.168.1.194, Port=10001
+20190401 09:43:23:848 [INFO] Init Completion point success
+20190401 09:43:23:849 [INFO] Init Thread pool Success, thread count=10
+20190401 09:43:23:850 [INFO] Start thread TCPWatch
+20190401 09:43:23:850 [INFO] Start thread UDPWatch
+20190401 09:43:23:850 [INFO] Start thread DetectDeadConn
+20190401 09:43:23:860 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:43:24:362 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:43:24:362 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:43:24:863 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:43:24:863 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:43:41:125 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:43:41:142 [INFO] WinSocket Start Success, version=2.2
+20190401 09:43:41:142 [INFO] Init listen socket success, ListenSocket=1152, UdpRecvSocket=1156, IP=192.168.1.194, Port=10001
+20190401 09:43:41:142 [INFO] Init Completion point success
+20190401 09:43:41:143 [INFO] Init Thread pool Success, thread count=10
+20190401 09:43:41:144 [INFO] Start thread TCPWatch
+20190401 09:43:41:144 [INFO] Start thread UDPWatch
+20190401 09:43:41:144 [INFO] Start thread DetectDeadConn
+20190401 09:43:41:155 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:43:41:657 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:43:41:657 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:43:42:158 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:43:42:158 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:45:07:340 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:45:07:355 [INFO] WinSocket Start Success, version=2.2
+20190401 09:45:07:355 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190401 09:45:07:355 [INFO] Init Completion point success
+20190401 09:45:07:356 [INFO] Init Thread pool Success, thread count=10
+20190401 09:45:07:357 [INFO] Start thread TCPWatch
+20190401 09:45:07:357 [INFO] Start thread UDPWatch
+20190401 09:45:07:357 [INFO] Start thread DetectDeadConn
+20190401 09:45:07:366 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:45:07:870 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:45:07:870 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:45:08:371 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:45:08:371 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:52:09:064 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:52:09:087 [INFO] WinSocket Start Success, version=2.2
+20190401 09:52:09:087 [INFO] Init listen socket success, ListenSocket=1136, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 09:52:09:087 [INFO] Init Completion point success
+20190401 09:52:09:088 [INFO] Init Thread pool Success, thread count=10
+20190401 09:52:09:089 [INFO] Start thread TCPWatch
+20190401 09:52:09:089 [INFO] Start thread UDPWatch
+20190401 09:52:09:089 [INFO] Start thread DetectDeadConn
+20190401 09:52:09:100 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:52:09:602 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:52:09:602 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:52:10:102 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:52:10:102 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:54:36:775 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:54:36:789 [INFO] WinSocket Start Success, version=2.2
+20190401 09:54:36:790 [INFO] Init listen socket success, ListenSocket=1140, UdpRecvSocket=1144, IP=192.168.1.194, Port=10001
+20190401 09:54:36:790 [INFO] Init Completion point success
+20190401 09:54:36:790 [INFO] Init Thread pool Success, thread count=10
+20190401 09:54:36:791 [INFO] Start thread TCPWatch
+20190401 09:54:36:791 [INFO] Start thread UDPWatch
+20190401 09:54:36:791 [INFO] Start thread DetectDeadConn
+20190401 09:54:36:801 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:54:37:305 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:54:37:305 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:54:37:805 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:54:37:805 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:57:39:676 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:57:39:692 [INFO] WinSocket Start Success, version=2.2
+20190401 09:57:39:693 [INFO] Init listen socket success, ListenSocket=1152, UdpRecvSocket=1156, IP=192.168.1.194, Port=10001
+20190401 09:57:39:693 [INFO] Init Completion point success
+20190401 09:57:39:694 [INFO] Init Thread pool Success, thread count=10
+20190401 09:57:39:694 [INFO] Start thread TCPWatch
+20190401 09:57:39:694 [INFO] Start thread UDPWatch
+20190401 09:57:39:695 [INFO] Start thread DetectDeadConn
+20190401 09:57:39:702 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:57:40:207 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:57:40:207 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:57:40:707 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:57:40:707 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:58:21:139 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:58:21:156 [INFO] WinSocket Start Success, version=2.2
+20190401 09:58:21:156 [INFO] Init listen socket success, ListenSocket=1140, UdpRecvSocket=1144, IP=192.168.1.194, Port=10001
+20190401 09:58:21:156 [INFO] Init Completion point success
+20190401 09:58:21:158 [INFO] Init Thread pool Success, thread count=10
+20190401 09:58:21:159 [INFO] Start thread TCPWatch
+20190401 09:58:21:159 [INFO] Start thread UDPWatch
+20190401 09:58:21:160 [INFO] Start thread DetectDeadConn
+20190401 09:58:21:174 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:58:21:676 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:58:21:676 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:58:22:177 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:58:22:177 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:59:43:864 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 09:59:43:879 [INFO] WinSocket Start Success, version=2.2
+20190401 09:59:43:879 [INFO] Init listen socket success, ListenSocket=1136, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 09:59:43:879 [INFO] Init Completion point success
+20190401 09:59:43:880 [INFO] Init Thread pool Success, thread count=10
+20190401 09:59:43:880 [INFO] Start thread UDPWatch
+20190401 09:59:43:881 [INFO] Start thread TCPWatch
+20190401 09:59:43:881 [INFO] Start thread DetectDeadConn
+20190401 09:59:43:894 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 09:59:44:396 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:59:44:396 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 09:59:44:896 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 09:59:44:896 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:01:43:877 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:01:43:892 [INFO] WinSocket Start Success, version=2.2
+20190401 10:01:43:893 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190401 10:01:43:893 [INFO] Init Completion point success
+20190401 10:01:43:894 [INFO] Init Thread pool Success, thread count=10
+20190401 10:01:43:894 [INFO] Start thread TCPWatch
+20190401 10:01:43:895 [INFO] Start thread UDPWatch
+20190401 10:01:43:895 [INFO] Start thread DetectDeadConn
+20190401 10:01:43:904 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:01:44:408 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:01:44:408 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:01:44:909 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:01:44:909 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:02:00:329 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:02:00:345 [INFO] WinSocket Start Success, version=2.2
+20190401 10:02:00:346 [INFO] Init listen socket success, ListenSocket=1136, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 10:02:00:346 [INFO] Init Completion point success
+20190401 10:02:00:347 [INFO] Init Thread pool Success, thread count=10
+20190401 10:02:00:347 [INFO] Start thread TCPWatch
+20190401 10:02:00:348 [INFO] Start thread UDPWatch
+20190401 10:02:00:348 [INFO] Start thread DetectDeadConn
+20190401 10:02:00:357 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:02:00:859 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:02:00:859 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:02:01:359 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:02:01:359 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:03:16:933 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:03:16:949 [INFO] WinSocket Start Success, version=2.2
+20190401 10:03:16:949 [INFO] Init listen socket success, ListenSocket=1136, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 10:03:16:949 [INFO] Init Completion point success
+20190401 10:03:16:950 [INFO] Init Thread pool Success, thread count=10
+20190401 10:03:16:951 [INFO] Start thread TCPWatch
+20190401 10:03:16:951 [INFO] Start thread UDPWatch
+20190401 10:03:16:951 [INFO] Start thread DetectDeadConn
+20190401 10:03:16:960 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:03:17:463 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:03:17:463 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:03:17:964 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:03:17:964 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:04:44:686 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:04:44:703 [INFO] WinSocket Start Success, version=2.2
+20190401 10:04:44:704 [INFO] Init listen socket success, ListenSocket=1120, UdpRecvSocket=1140, IP=192.168.1.194, Port=10001
+20190401 10:04:44:704 [INFO] Init Completion point success
+20190401 10:04:44:704 [INFO] Init Thread pool Success, thread count=10
+20190401 10:04:44:705 [INFO] Start thread TCPWatch
+20190401 10:04:44:705 [INFO] Start thread UDPWatch
+20190401 10:04:44:705 [INFO] Start thread DetectDeadConn
+20190401 10:04:44:716 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:04:45:218 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:04:45:218 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:04:45:719 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:04:45:719 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:06:14:670 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:06:14:684 [INFO] WinSocket Start Success, version=2.2
+20190401 10:06:14:685 [INFO] Init listen socket success, ListenSocket=1140, UdpRecvSocket=1144, IP=192.168.1.194, Port=10001
+20190401 10:06:14:685 [INFO] Init Completion point success
+20190401 10:06:14:686 [INFO] Init Thread pool Success, thread count=10
+20190401 10:06:14:686 [INFO] Start thread TCPWatch
+20190401 10:06:14:687 [INFO] Start thread UDPWatch
+20190401 10:06:14:687 [INFO] Start thread DetectDeadConn
+20190401 10:06:14:694 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:06:15:198 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:06:15:198 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:06:15:698 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:06:15:698 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:07:35:389 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:07:35:406 [INFO] WinSocket Start Success, version=2.2
+20190401 10:07:35:406 [INFO] Init listen socket success, ListenSocket=1152, UdpRecvSocket=1156, IP=192.168.1.194, Port=10001
+20190401 10:07:35:406 [INFO] Init Completion point success
+20190401 10:07:35:407 [INFO] Init Thread pool Success, thread count=10
+20190401 10:07:35:407 [INFO] Start thread TCPWatch
+20190401 10:07:35:408 [INFO] Start thread DetectDeadConn
+20190401 10:07:35:408 [INFO] Start thread UDPWatch
+20190401 10:07:35:419 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:07:35:920 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:07:35:920 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:07:36:421 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:07:36:421 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:08:22:714 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190401 10:08:22:730 [INFO] WinSocket Start Success, version=2.2
+20190401 10:08:22:731 [INFO] Init listen socket success, ListenSocket=1160, UdpRecvSocket=1164, IP=192.168.1.194, Port=10001
+20190401 10:08:22:731 [INFO] Init Completion point success
+20190401 10:08:22:732 [INFO] Init Thread pool Success, thread count=10
+20190401 10:08:22:732 [INFO] Start thread TCPWatch
+20190401 10:08:22:733 [INFO] Start thread UDPWatch
+20190401 10:08:22:733 [INFO] Start thread DetectDeadConn
+20190401 10:08:22:740 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190401 10:08:23:245 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:08:23:245 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190401 10:08:23:744 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190401 10:08:23:744 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190426 09:50:57:384 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190426 09:50:57:402 [INFO] WinSocket Start Success, version=2.2
+20190426 09:50:57:403 [INFO] Init listen socket success, ListenSocket=1156, UdpRecvSocket=1160, IP=192.168.1.194, Port=10001
+20190426 09:50:57:403 [INFO] Init Completion point success
+20190426 09:50:57:404 [INFO] Init Thread pool Success, thread count=10
+20190426 09:50:57:405 [INFO] Start thread TCPWatch
+20190426 09:50:57:405 [INFO] Start thread UDPWatch
+20190426 09:50:57:405 [INFO] Start thread DetectDeadConn
+20190426 09:50:57:413 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190426 09:50:57:916 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190426 09:50:57:916 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190426 09:50:58:416 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190426 09:50:58:416 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190426 10:02:11:798 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190426 10:02:11:816 [INFO] WinSocket Start Success, version=2.2
+20190426 10:02:11:817 [INFO] Init listen socket success, ListenSocket=1144, UdpRecvSocket=1148, IP=192.168.1.194, Port=10001
+20190426 10:02:11:817 [INFO] Init Completion point success
+20190426 10:02:11:818 [INFO] Init Thread pool Success, thread count=10
+20190426 10:02:11:820 [INFO] Start thread UDPWatch
+20190426 10:02:11:820 [INFO] Start thread DetectDeadConn
+20190426 10:02:11:820 [INFO] Start thread TCPWatch
+20190426 10:02:11:836 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190426 10:02:12:338 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190426 10:02:12:339 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190426 10:02:12:840 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190426 10:02:12:840 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001

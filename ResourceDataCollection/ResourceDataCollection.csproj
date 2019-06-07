@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6705CFB2-7E19-4267-94C5-F983726668FD}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ResourceDataCollection</RootNamespace>
+    <AssemblyName>ResourceDataCollection</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ABB.Robotics.Controllers.PC">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\ABB Industrial IT\Robotics IT\SDK\PCSDK 6.07\ABB.Robotics.Controllers.PC.dll</HintPath>
+    </Reference>
+    <Reference Include="Confluent.Kafka">
+      <HintPath>..\packages\Confluent.Kafka.0.11.3\lib\net46\Confluent.Kafka.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RobotStudio.Services.RobApi">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\ABB Industrial IT\Robotics IT\SDK\PCSDK 6.07\RobotStudio.Services.RobApi.dll</HintPath>
+    </Reference>
+    <Reference Include="RobotStudio.Services.RobApi.Desktop">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\ABB Industrial IT\Robotics IT\SDK\PCSDK 6.07\RobotStudio.Services.RobApi.Desktop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABBCollector.cs" />
+    <Compile Include="ABBPayLoad.cs" />
+    <Compile Include="HncApi\eventdef.cs" />
+    <Compile Include="HncApi\hncactivation.cs" />
+    <Compile Include="HncApi\hncalarm.cs" />
+    <Compile Include="HncApi\HncApi.cs" />
+    <Compile Include="HncApi\hncaxis.cs" />
+    <Compile Include="HncApi\hncchan.cs" />
+    <Compile Include="HncApi\hnccrds.cs" />
+    <Compile Include="HncApi\hncdatadef.cs" />
+    <Compile Include="HncApi\hncdatatype.cs" />
+    <Compile Include="HncApi\hncfprogman.cs" />
+    <Compile Include="HncApi\hncmount.cs" />
+    <Compile Include="HncApi\hncnet.cs" />
+    <Compile Include="HncApi\hncparaman.cs" />
+    <Compile Include="HncApi\hncreg.cs" />
+    <Compile Include="HncApi\hncsys.cs" />
+    <Compile Include="HncApi\hncsysctrl.cs" />
+    <Compile Include="HncApi\hncupdate.cs" />
+    <Compile Include="HncApi\hncvar.cs" />
+    <Compile Include="HncApi\hncverify.cs" />
+    <Compile Include="HncApi\osdepend.cs" />
+    <Compile Include="HNCCollector.cs" />
+    <Compile Include="HNCPayLoad.cs" />
+    <Compile Include="KafkaProducer.cs" />
+    <Compile Include="LoadData.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
